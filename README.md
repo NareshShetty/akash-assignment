@@ -9,5 +9,7 @@ run : npm install in  root folder
 ng serve
 
 Login with :
-username : admin
-password : @P9zkUP=
+username : `admin`
+
+
+password : `@P9zkUP=`
